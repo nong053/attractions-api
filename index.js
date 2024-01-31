@@ -32,6 +32,7 @@ app.get('/attractions' ,function(req,res,next){
         console.log(err)
     })
   })
+  
 
 
 
